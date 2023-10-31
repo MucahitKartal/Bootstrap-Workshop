@@ -23,7 +23,7 @@
   height: 250px;
   width: 250px;
   margin: auto;
-  /* border: 7px solid gray; */
+  border: 11px solid gray;
 }
 .our-team-row .card {
   border: none !important;
