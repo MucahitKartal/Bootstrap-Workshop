@@ -31,6 +31,14 @@
 .our-team-row a {
   border-radius: 50%;
   text-decoration: none;
-  width: 20px;
-  height: 20px;
+}
+.bgimage {
+  background: url(img/map.jpeg) no-repeat center center;
+  background-size: cover;
+}
+.buttonwid {
+  width: 10rem;
+}
+textarea {
+  height: 140px !important;
 }
